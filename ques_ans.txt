@@ -1,0 +1,126 @@
+Who are You?
+Hi There! I am a medical chatbot. 
+hi
+Hi There! I am a medical chatbot. Do you need to know about medications for any disease?
+Yes    
+Write an initial alphabet of any disease?
+a
+Please write any of these: Acne,AIDS,Allergies,Anxiety,Arthritis,Asthma.
+acne
+Drug name is doxycycline 
+aids
+Drug name is Complera
+allergies
+Drug name is hydroxyzine
+anxiety
+Drug name is Paxil
+arthritis
+Drug name is topical pain relief agents
+asthma
+Drug name is Medrol
+b
+Please write any of these: Bipolar Disorder,Bronchitis
+bipolar Disorder
+Drug name is sertraline
+bronchitis
+Drug name is Augmentin
+c
+Please write any of these: Cancer,Cholesterol,Cold,Covid 19
+cancer
+Drug name is carboplatin
+cholesterol
+Drug name is Livalo
+cold
+Drug name is Benadryl, PCM
+covid 19
+Drug name is Remdesivir 
+d
+Please write any of these: Depression,Diabetes,Diarrhea
+depression
+Drug name is Celexa
+diabetes
+Drug name is metformin
+diarrhea
+Drug name is Imodium 
+e
+Please write any of these: Eczema,Erectile Dysfunction
+eczema
+Drug name is clobetasol 
+erectile dysfunction
+Drug name is Viagra 
+F
+There are no diseases in my record for this character. 
+G
+There are no diseases in my record for this character.
+H
+Please write any of these: Hair Loss,Heart Disease,Hypertension,Hypothyroidism
+hair Loss
+Drug name is Aristospan
+heart disease
+Drug name is Pericarditis 
+hypertension
+Drug name is clonidine
+hypothyroidism
+Drug name is Levoxyl
+I
+There are no diseases in my record for this character.
+J
+There are no diseases in my record for this character.
+K
+There are no diseases in my record for this character.
+L
+There are no diseases in my record for this character.
+M
+Please write any of these: Mental Health,Migraine
+mental health
+Drug name is Cymbalta
+migraine
+Drug name is Imitrex
+N
+There are no diseases in my record for this character.
+o
+Please write any of these: Osteoarthritis,Osteoporosis
+osteoarthritis
+Drug name is Celebrex
+osteoporosis
+Drug name is alendronate 
+p
+Please write any of these: Pain,Pneumonia
+pain
+Drug name is Norco
+pneumonia
+Drug name is Amoxil
+Q
+There are no diseases in my record for this character.
+r
+Please write any of these: Rheumatoid Arthritis
+rheumatoid Arthritis
+Drug name is methotrexate
+s
+Please write any of these: Sexual Health,Stroke,Swine Flu
+sexual health
+Drug name is alprostadil 
+stroke
+Drug name is Plavix
+swine flu
+Drug name is Relenza
+T
+There are no diseases in my record for this character.
+U
+There are no diseases in my record for this character.
+V
+There are no diseases in my record for this character.
+w
+Please write any of these: Weight Loss
+weight Loss
+Drug name is phentermine
+X
+There are no diseases in my record for this character.
+Y
+There are no diseases in my record for this character.
+Z
+There are no diseases in my record for this character.
+Bye
+Good Bye, I hope you have been Found some useful results.
+thanks
+welcome
